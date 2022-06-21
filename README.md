@@ -1,4 +1,4 @@
-# Melanoma Detection ( changed to Skin Cancer Detection using Macroscopic Images)
+# Melanoma Detection (changed to Skin Cancer Detection using Macroscopic Images)
 
 
 For this project, Google Colab is recommeneded to train and run the models. The link to the first dataset is link below.
